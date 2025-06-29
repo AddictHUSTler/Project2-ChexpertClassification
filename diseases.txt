@@ -1,0 +1,27 @@
+No Finding
+
+Enlarged Cardiomediastinum: Trung thất tim mở rộng (Trung tâm ngực)
+
+Cardiomegaly: Phì đại tim (Buồng tìm)
+
+Lung Opacity: Đục phổi (Cả hai bên)
+
+Lung Lesion: Mô phổi (Cả hai bên)
+
+Edema: Phù nề
+
+Consolidation:  Đông đặc phổi (Mô phổi)
+
+Pneumonia: Viêm phổi (Cả hai bên)
+
+Atelectasis: Xẹp phổi (Cả hai bên)
+
+Pneumothorax: Tràn khí màng phổi (Giữa phổi và thành ngực)
+
+Pleural Effusion: Tràn dịch màng phổi (Giữa phổi và thành ngực)
+
+Pleural Other: Các bất thường màng phổi khác (Cả hai bên)
+
+Fracture: Gãy xương (sườn, lồng ngực)
+
+Support Devices
