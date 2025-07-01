@@ -20,7 +20,7 @@
 
 ### Inference guide:
 1.  ```bash
-    git clone [https://github.com/AddictHUSTler/Project2-ChexpertClassification](https://github.com/AddictHUSTler/Project2-ChexpertClassification)
+    git clone https://github.com/AddictHUSTler/Project2-ChexpertClassification
     ```
 2.  ```bash
     cd Project2-ChexpertClassification
