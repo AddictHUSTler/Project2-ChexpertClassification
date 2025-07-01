@@ -18,6 +18,6 @@ Inference guide:
 4. python infer.py --model_name ViT-LoRA-U0 --image_path C:/Users/Administrator/Project2-ChexpertClassification/test/u0/chexpert/train/patient00006/study1/view1_frontal.jpg (This is an example, you can change to another image direcotry and model)
 5. python guiDL.py (In case of running GUI)
 
-*NOTE: In case you pick a model and image not having the same label modification (for example Vit-LoRA-U0.pth and any image from /test/u1 directory), for both infer.py and guiDL.py file, the prediction still happens but there will be a warning when trying to compare to the true label, since the csv files are put in seperate u0 and u1 directories, hence the choice of model and input image must match) 
+*NOTE: In case a model and image not having the same label modification are picked (for example Vit-LoRA-U0.pth and any image from /test/u1 directory), for both infer.py and guiDL.py file, the prediction still happens but there will be a warning when trying to compare to the true label, since the csv files are put in seperate u0 and u1 directories, hence the choice of model and input image must match) 
 
 
