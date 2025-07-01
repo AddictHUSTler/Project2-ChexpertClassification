@@ -7,7 +7,7 @@ torch==2.3.1
 torchaudio==2.3.1
 torchvision==0.18.1
 
-numpy
+numpy<2.0
 pandas
 scikit-learn
 scikit-multilearn
@@ -32,7 +32,6 @@ timm
 wandb
 tqdm
 torchsummary
-triton
 torchmetrics
 
 # --- Interactive/Notebook Environment (Optional) ---
@@ -40,3 +39,4 @@ ipykernel
 ipywidgets
 jupyter_client
 utils
+PyQt5
