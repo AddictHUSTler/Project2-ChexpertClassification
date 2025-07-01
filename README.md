@@ -7,7 +7,7 @@
 
 [*Link to checkpoint*](https://drive.google.com/drive/folders/19QHupl7XllVxH3yes509_t9xFEXke6mN?usp=sharing): Please **download the checkpoint files** and place them in the root directory, for example like in the following image:
 
-![alt text](Directory.png)
+![alt text](DIrectory.png)
 
 ***
 
