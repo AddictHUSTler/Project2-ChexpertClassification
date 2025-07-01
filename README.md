@@ -39,7 +39,8 @@
 
 
 (This is an example, you can change to another image directory and model)
-6.  ```bash
+
+5.  ```bash
     python guiDL.py
     ```
     (In case of running GUI)
