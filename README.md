@@ -38,7 +38,7 @@
 ![alt text](inferenceDemo.png)
 
 
-    (This is an example, you can change to another image directory and model)
+(This is an example, you can change to another image directory and model)
 6.  ```bash
     python guiDL.py
     ```
