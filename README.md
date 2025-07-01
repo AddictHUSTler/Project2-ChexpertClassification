@@ -7,6 +7,8 @@
 
 [*Link to checkpoint*](https://drive.google.com/drive/folders/19QHupl7XllVxH3yes509_t9xFEXke6mN?usp=sharing): Please **download the checkpoint files** and place them in the root directory, for example like in the following image:
 
+![alt text](Directory.png)
+
 ***
 
 ### Files in running order:
@@ -32,8 +34,12 @@
 4.  ```bash
     python infer.py --model_name ViT-LoRA-U0 --image_path C:/Users/Administrator/Project2-ChexpertClassification/test/u0/chexpert/train/patient00006/study1/view1_frontal.jpg
     ```
+
+![alt text](inferenceDemo.png)
+
+
     (This is an example, you can change to another image directory and model)
-5.  ```bash
+6.  ```bash
     python guiDL.py
     ```
     (In case of running GUI)
