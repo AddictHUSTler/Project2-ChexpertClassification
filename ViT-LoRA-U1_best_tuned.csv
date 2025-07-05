@@ -1,15 +1,15 @@
 class,threshold
-No Finding,0.2588339
-Enlarged Cardiomediastinum,0.18565165
-Cardiomegaly,0.31367657
-Lung Opacity,0.34639993
-Lung Lesion,0.30230093
-Edema,0.38505346
-Consolidation,0.1806366
-Pneumonia,0.22685966
-Atelectasis,0.22532506
-Pneumothorax,0.29283217
-Pleural Effusion,0.41219845
-Pleural Other,0.39826295
-Fracture,0.37342304
-Support Devices,0.49178496
+No Finding,0.19793376
+Enlarged Cardiomediastinum,0.22421788
+Cardiomegaly,0.3370096
+Lung Opacity,0.33188158
+Lung Lesion,0.34136602
+Edema,0.34543577
+Consolidation,0.25129774
+Pneumonia,0.19803035
+Atelectasis,0.24090354
+Pneumothorax,0.27578858
+Pleural Effusion,0.39594305
+Pleural Other,0.47758427
+Fracture,0.30920696
+Support Devices,0.4402356

@@ -1,8 +1,6 @@
-# --- Tell pip where to find PyTorch packages for CUDA 12.0 drivers ---
+
 --extra-index-url https://download.pytorch.org/whl/cu118
 
-# --- Core ML & Data Science ---
-# Using stable versions of torch compatible with the cu118 build
 torch==2.3.1
 torchaudio==2.3.1
 torchvision==0.18.1
@@ -14,7 +12,6 @@ scikit-multilearn
 matplotlib
 seaborn
 
-# --- Hugging Face Ecosystem ---
 transformers
 datasets
 accelerate
@@ -22,19 +19,16 @@ peft
 tokenizers
 safetensors
 
-# --- Image Processing & Augmentation ---
 opencv-python-headless
 albumentations
 pillow
 timm
 
-# --- Utilities & Experiment Tracking ---
 wandb
 tqdm
 torchsummary
 torchmetrics
 
-# --- Interactive/Notebook Environment (Optional) ---
 ipykernel
 ipywidgets
 jupyter_client
