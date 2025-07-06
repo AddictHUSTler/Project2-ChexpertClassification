@@ -2,6 +2,9 @@
 ![alt text](guiDemonstration.png)
 
 ***
+### Input and output:
+1. Input: An image in the test set.
+2. Output: Prediction of probable diseases.(With a label's probability and their respective thresholds)
 
 [*Link to dataset*](https://www.kaggle.com/datasets/ashery/chexpert): No need to download the full dataset, images are already available for demonstration via the `test` folder.
 
@@ -11,7 +14,7 @@
 
 ***
 
-### Files in running order:
+### Files in running order(No need to run this, the inference guide should be sufficient):
 1.  `data_preprocessing.ipynb`: For data split and testing augmentations.
 2.  `vit-lora.ipynb` and `contrastive-vit-unsup.ipynb`: One script for normal supervised, the other for contrastive learning, both use `vit_base_patch16_224` model and LoRA adapters.
 3.  `test_model.ipynb`: For plotting the mean AUROC graph for model checkpoints and determine classification thresholds for each of the 14 classes in the dataset.
